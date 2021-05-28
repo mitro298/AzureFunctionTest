@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SqlConnectionString": "Data Source=ZBEGOVIC;Initial Catalog=AzureFunction.Todo;user id=todo.owner;password='todo.owner'" 
+  }
+}
